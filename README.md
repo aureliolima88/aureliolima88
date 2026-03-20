@@ -1,4 +1,4 @@
-# Olá, eu sou o Aurélio Lima 👋
+# 👋 Olá, eu sou o Aurélio Lima
 
 💻 Python Developer em formação  
 🔄 Transição de carreira: Psicologia → Tecnologia  
@@ -6,20 +6,22 @@
 ---
 
 ## 🚀 Sobre mim
-Estou iniciando minha jornada na programação, focado em Python e desenvolvimento de projetos para evoluir na área de tecnologia.
+Estou iniciando minha jornada na programação, com foco em Python e desenvolvimento de projetos práticos para evoluir na área de tecnologia.
 
 ---
 
-## 📚 Atualmente estudando
+## 🧠 Atualmente estudando
 - Python
+- Lógica de Programação
 - Git e GitHub
 
 ---
 
-## 🎯 Objetivo
-Me tornar desenvolvedor Python e conquistar minha primeira oportunidade na área de tecnologia.
+## 🎯 Objetivos
+- Me tornar desenvolvedor Python  
+- Conquistar minha primeira oportunidade na área de tecnologia  
 
 ---
 
 ## 📫 Contato
-- LinkedIn: (coloque seu link aqui)
+- LinkedIn: [Clique Aqui](www.linkedin.com/in/ayrlerson-lima)
