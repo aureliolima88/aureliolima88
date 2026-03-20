@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Aurélio Lima 👋
 
-<!--
-**aureliolima88/aureliolima88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer em formação  
+🔄 Transição de carreira: Psicologia → Tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Estou iniciando minha jornada na programação, focado em Python e desenvolvimento de projetos para evoluir na área de tecnologia.
+
+---
+
+## 📚 Atualmente estudando
+- Python
+- Git e GitHub
+
+---
+
+## 🎯 Objetivo
+Me tornar desenvolvedor Python e conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+## 📫 Contato
+- LinkedIn: (coloque seu link aqui)
