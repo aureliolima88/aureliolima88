@@ -44,4 +44,4 @@ Sou profissional em transição da Psicologia para a área de Desenvolvimento em
 
 ## 🎯 Objetivos
 - Me tornar desenvolvedor Python  
-- Conquistar minha primeira oportunidade na área de tecnologia
+- Conquistar a minha primeira oportunidade na área de tecnologia
